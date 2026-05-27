@@ -562,4 +562,3 @@ Student ID: 23102A010034
 
 ---
 
-> *"Credit history doesn't just predict the past — it predicts the future."*
