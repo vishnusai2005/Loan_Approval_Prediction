@@ -557,8 +557,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy jupyter
 ## Author
 
 **Vydhyam Vishnusai**  
-B.Tech CSE (AI & ML) — Mohan Babu University, Tirupati  
-Student ID: 23102A010034  
+
 
 ---
 
